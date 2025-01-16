@@ -16,7 +16,9 @@ social: true # includes social icons at the bottom of the page
 projects: true
 ---
 I am a Master's student in the [Department of Mechanical Engineering](https://sti.epfl.ch/igm/) at [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). During my master
-s study, I have the privilege of conducting the research projects, in BioRob at EPFL advised by [Prof. Auke Jan Ispeert](https://www.epfl.ch/labs/biorob/people/ijspeert/) and in RSL at ETH Zurich advised by [Prof. Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html). My research interests lie in the field of robot learning and quadrupedal locomotion with Reinforcement Learning and Bio-inspired Control. Prior to joining EPFL, I completed my bachelor's degree at Waseda University in Tokyo, Japan.
+s study, I have the privilege of conducting the research projects, in BioRob at EPFL advised by [Prof. Auke Jan Ispeert](https://www.epfl.ch/labs/biorob/people/ijspeert/) and in RSL at ETH Zurich advised by [Prof. Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html). My research interests lie in the field of robot learning, especially the locomotion control with Reinforcement Learning or Bio-inspired Control. My dream is to create a robot which can really help our human to revolutionize the production way and explore the universe. Prior to joining EPFL, I completed my bachelor's degree at Waseda University in Tokyo, Japan, focusing on the space exploration. 
+
+During my spare time, I love to play basketball and enjoy the hotpot :).
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
