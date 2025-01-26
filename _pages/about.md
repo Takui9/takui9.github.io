@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A master's student at EPFL, working on robotics.
+subtitle: zewei.zhang@epfl.ch | ctki49@gmail.com
 profile:
   align: right
   image: prof_zewei.jpeg
