@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: zewei.zhang@epfl.ch | ctki49@gmail.com
+subtitle: Email: zewei.zhang@epfl.ch | ctki49@gmail.com
 profile:
   align: right
   image: prof_zewei.jpeg
